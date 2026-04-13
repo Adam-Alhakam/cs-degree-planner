@@ -1,5 +1,7 @@
 Project: Degree Planner System
+
 Course: CS4800 Software Engineering
+
 Team Members: Alnagdi Mohsen 
 
 What works:
